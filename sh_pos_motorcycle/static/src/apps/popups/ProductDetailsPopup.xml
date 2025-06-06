@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+    <t t-name="sh_pos_motorcycle.ProductDetailsPopup">
+           <Dialog title="props.title">
+                <div class="modal-body body touch-scrollable scrollable-y main_div_sh_payment">
+                    <table class='product_details_tbl' >
+                        <thead>
+                            <th class="sh_make_th">Make</th>
+                            <th class="sh_model_th">Model</th>
+                            <th class="sh_start_th">Start Year</th>
+                            <th class="sh_end_th">ENd Year</th>
+                        </thead>
+                        <tbody>
+                            <t t-foreach='props.details' t-as='detail' t-key="detail.id">
+                                <tr>
+                                    <td>
+                                        <t t-if="detail.make_id and detail.make_id.display_name">
+                                            <t t-esc='detail.make_id.display_name' />
+                                        </t>
+                                        <t t-else="" >
+                                            -
+                                        </t>
+                                    </td>
+                                    <td>
+                                        <t t-if="detail.mmodel_id">
+                                            <t t-esc='detail.mmodel_id.display_name' />
+                                        </t>
+                                        <t t-else="" >
+                                            -
+                                        </t>
+                                    </td>
+                                    <td>
+                                        <t t-if="detail.year_id">
+                                            <t t-esc='detail.year_id.display_name' />
+                                        </t>
+                                        <t t-else="" >
+                                            -
+                                        </t>
+                                    </td>
+                                    <td>
+                                        <t t-if="detail.end_year_id">
+                                            <t t-esc='detail.end_year_id.display_name' />
+                                        </t>
+                                        <t t-else="" >
+                                            -
+                                        </t>
+                                    </td>
+                                </tr>
+                            </t>
+                        </tbody>
+                        
+                    </table>
+                </div>
+            </Dialog>
+    </t>
+</templates>
