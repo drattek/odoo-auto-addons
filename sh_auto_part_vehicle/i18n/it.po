@@ -1,0 +1,1058 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_auto_part_vehicle
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-27 05:58+0000\n"
+"PO-Revision-Date: 2024-06-27 05:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_res_settings
+msgid "'Garage Feature' will visible in shop page, user drop-down menu."
+msgstr "Funzione Garage' sarà visibile nella pagina del negozio, nel menu a discesa dell'utente."
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_engine_attribute_filters
+msgid ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Engine\n"
+"                        </b>"
+msgstr ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Motore\n"
+"                        </b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_garde_attribute_filters
+msgid ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Grade\n"
+"                        </b>"
+msgstr ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Grado\n"
+"                        </b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_made_in_attribute_filters
+msgid ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Made In\n"
+"                        </b>"
+msgstr ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Fatto in\n"
+"                        </b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_brand_attribute_filters
+msgid ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Product Brands\n"
+"                        </b>"
+msgstr ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                           Marchi di prodotto\n"
+"                        </b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_p_type_attribute_filters
+msgid ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Product Type\n"
+"                        </b>"
+msgstr ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                           Tipologia di prodotto\n"
+"                        </b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_transmission_attribute_filters
+msgid ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Transmission\n"
+"                        </b>"
+msgstr ""
+"<b class=\"o_products_attributes_title d-none d-lg-block\">\n"
+"                            Trasmissione\n"
+"                        </b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_engine_products_attributes_offcanvas
+msgid "<b>Engine</b>"
+msgstr "<b>Motore</b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_garde_products_attributes_offcanvas
+msgid "<b>Grade</b>"
+msgstr "<b>Grado</b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_made_in_products_attributes_offcanvas
+msgid "<b>Made In</b>"
+msgstr "<b>Fatto in</b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_brands_products_attributes_offcanvas
+msgid "<b>Product Brands</b>"
+msgstr "<b>Marchi di prodotto</b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_p_type_products_attributes_offcanvas
+msgid "<b>Product Type</b>"
+msgstr "<b>Tipologia di prodotto</b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_transmission_products_attributes_offcanvas
+msgid "<b>Transmission</b>"
+msgstr "<b>Trasmissione</b>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_my_garage_link
+msgid ""
+"<i class=\"fa fa-fw fa-car me-1 small text-primary\"/>\n"
+"                My Garage"
+msgstr ""
+"<i class=\"fa fa-fw fa-car me-1 small text-primary\"/>\n"
+"               Il mio garage"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid ""
+"<i class=\"fa fa-plus\"/>\n"
+"                            Save vehicle to garage"
+msgstr ""
+"<i class=\"fa fa-plus\"/>\n"
+"                            Salva il veicolo nel garage"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid ""
+"<i class=\"fa fa-retweet\"/>\n"
+"                        Select a different vehicle"
+msgstr ""
+"<i class=\"fa fa-retweet\"/>\n"
+"                        Seleziona un veicolo diverso"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid "<option value=\"\" class=\"blank\">Make</option>"
+msgstr "<option value=\"\" class=\"blank\">Fare</option>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid "<option value=\"\" class=\"blank\">Model</option>"
+msgstr "<option value=\"\" class=\"blank\">Modello</option>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid "<option value=\"\" class=\"blank\">Year</option>"
+msgstr "<option value=\"\" class=\"blank\">Anno</option>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_2
+msgid ""
+"<select name=\"make\" class=\"form-control id_sh_motorcycle_make_select\">\n"
+"\t\t\t\t\t\t\t\t\t\t<option value=\"\" class=\"blank\">Select Here...</option>\n"
+"\t\t\t\t\t\t\t\t\t</select>"
+msgstr ""
+"<select name=\"make\" class=\"form-control id_sh_motorcycle_make_select\">\n"
+"\t\t\t\t\t\t\t\t\t\t<option value=\"\" class=\"blank\">Seleziona qui...</option>\n"
+"\t\t\t\t\t\t\t\t\t</select>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_2
+msgid ""
+"<select name=\"model\" class=\"form-control id_sh_motorcycle_model_select\">\n"
+"\t\t\t\t\t\t\t\t\t\t<option value=\"\" class=\"blank\">Select Here...</option>\n"
+"\t\t\t\t\t\t\t\t\t</select>"
+msgstr ""
+"<select name=\"model\" class=\"form-control id_sh_motorcycle_model_select\">\n"
+"\t\t\t\t\t\t\t\t\t\t<option value=\"\" class=\"blank\">Seleziona qui...</option>\n"
+"\t\t\t\t\t\t\t\t\t</select>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_2
+msgid ""
+"<select name=\"type\" class=\"form-control id_sh_motorcycle_type_select\">\n"
+"\t\t\t\t\t\t\t\t\t\t<option value=\"\" class=\"blank\">Select Here...</option>\n"
+"\t\t\t\t\t\t\t\t\t</select>"
+msgstr ""
+"<select name=\"type\" class=\"form-control id_sh_motorcycle_type_select\">\n"
+"\t\t\t\t\t\t\t\t\t\t<option value=\"\" class=\"blank\">Seleziona qui...</option>\n"
+"\t\t\t\t\t\t\t\t\t</select>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid ""
+"<select name=\"type\" class=\"form-select id_sh_motorcycle_type_select\">\n"
+"                                    <option value=\"\" class=\"blank\">Type</option>\n"
+"\n"
+"                                </select>"
+msgstr ""
+"<select name=\"type\" class=\"form-select id_sh_motorcycle_type_select\">\n"
+"                                    <option value=\"\" class=\"blank\">Tipo</option>\n"
+"\n"
+"                                </select>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid ""
+"<select name=\"type\" class=\"form-select id_sh_motorcycle_type_select\">\n"
+"                            <option value=\"\" class=\"blank\">Type</option>\n"
+"                        </select>"
+msgstr ""
+"<select name=\"type\" class=\"form-select id_sh_motorcycle_type_select\">\n"
+"                            <option value=\"\" class=\"blank\">Tipo</option>\n"
+"                        </select>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_2
+msgid ""
+"<select name=\"year\" class=\"form-control id_sh_motorcycle_year_select\">\n"
+"\t\t\t\t\t\t\t\t\t\t<option value=\"\" class=\"blank\">Select Here...</option>\n"
+"\t\t\t\t\t\t\t\t\t</select>"
+msgstr ""
+"<select name=\"year\" class=\"form-control id_sh_motorcycle_year_select\">\n"
+"\t\t\t\t\t\t\t\t\t\t<option value=\"\" class=\"blank\">Seleziona qui...</option>\n"
+"\t\t\t\t\t\t\t\t\t</select>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_attribute_filters
+msgid ""
+"<small class=\"mx-auto\"><b>Clear Filters</b></small>\n"
+"                <i class=\"oi oi-close\"/>"
+msgstr ""
+"<small class=\"mx-auto\"><b>Cancella filtri</b></small>\n"
+"                <i class=\"oi oi-close\"/>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_alternate_vehicles_box_layout
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_optional_vehicles
+msgid ""
+"<span class=\"badge badge-danger stock_state\" style=\"font-size: "
+"12px;\">Out of stock</span>"
+msgstr ""
+"<span class=\"badge badge-danger stock_state\" style=\"font-size: "
+"12px;\">Esaurito</span>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_alternate_vehicles_box_layout
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_optional_vehicles
+msgid ""
+"<span class=\"badge badge-success stock_state\" style=\"font-size: "
+"12px;\">In Stock</span>"
+msgstr ""
+"<span class=\"badge badge-success stock_state\" style=\"font-size: "
+"12px;\">In magazzino</span>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_alternate_vehicles_box_layout
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_optional_vehicles
+msgid "<span class=\"fa fa-heart\" role=\"img\" aria-label=\"Add to wishlist\"/>"
+msgstr "<span class=\"fa fa-heart\" role=\"img\" aria-label=\"Aggiungi alla lista dei desideri\"/>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_2
+msgid "<span>Search</span>"
+msgstr "<span>Ricerca</span>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+msgid "<strong>Compatible with all vehicles</strong>"
+msgstr "<strong>Compatibile con tutti i veicoli</strong>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+msgid "<strong>Model : </strong>"
+msgstr "<strong>Modello : </strong>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_alternate_vehicles_box_layout
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_optional_vehicles
+msgid "<strong>Origin : </strong>"
+msgstr "<strong>Origine : </strong>"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+msgid "<strong>Year : </strong>"
+msgstr "<strong>Anno : </strong>"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/xml/compitible_products.xml:0
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+#, python-format
+msgid "Action"
+msgstr "Azione"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_alternate_vehicles_box_layout
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_optional_vehicles
+msgid "Add to Cart"
+msgstr "Aggiungi al carrello"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_alternate_vehicles_box_layout
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_optional_vehicles
+msgid "Add to Wishlist"
+msgstr "Aggiungi alla lista dei desideri"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_snippet_snippet_options
+msgid "All Products"
+msgstr "Tutti i prodotti"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_alternate_vehicles_box_layout
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_auto_part_vehicle_bookmark_links
+msgid "Alternate Products"
+msgstr "Prodotti alternativi"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid "Another action"
+msgstr "Un'altra azione"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/js/search_new.js:0
+#, python-format
+msgid "Are you sure you want to remove the vehicle?"
+msgstr "Sei sicuro di voler rimuovere il veicolo?"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__motorcycle_ids
+#: model:ir.module.category,name:sh_auto_part_vehicle.module_category_sh_motorcycle
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_menuitem_root
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_search
+msgid "Auto Parts"
+msgstr "Ricambi auto"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_res_settings
+msgid "Auto Parts Frontend"
+msgstr "Frontend dei ricambi auto"
+
+#. module: sh_auto_part_vehicle
+#: model:res.groups,name:sh_auto_part_vehicle.group_sh_motorcycle_manager
+msgid "Auto Parts Manager"
+msgstr "Responsabile ricambi auto"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_mmodel_form
+msgid "Auto Parts Model"
+msgstr "Modello di ricambi auto"
+
+#. module: sh_auto_part_vehicle
+#: model:res.groups,name:sh_auto_part_vehicle.group_sh_motorcycle_user
+msgid "Auto Parts User"
+msgstr "Utente di ricambi auto"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_brand_action
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__brand
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_brand_menuitem
+msgid "Brand"
+msgstr "Marca"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_snippet_snippet_options
+msgid "Button Size"
+msgstr "Dimensione del pulsante"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/js/search_new.js:0
+#, python-format
+msgid "Cancel"
+msgstr "Annulla"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/js/custom.js:0
+#, python-format
+msgid "Close"
+msgstr "Vicino"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__name
+msgid "Code"
+msgstr "Codice"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__sh_is_common_product
+msgid "Common Products?"
+msgstr "Prodotti comuni?"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__company_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_make__company_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__company_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__company_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_type__company_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_year__company_id
+msgid "Company"
+msgstr "Azienda"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_alternate_vehicles_box_layout
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_optional_vehicles
+msgid "Compare"
+msgstr "Confrontare"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_auto_part_vehicle_bookmark_links
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+msgid "Compatible Vehicles"
+msgstr "Veicoli compatibili"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/js/custom.js:0
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_alternate_vehicles_box_layout
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_optional_vehicles
+#, python-format
+msgid "Compitible Products"
+msgstr "Prodotti compatibili"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_res_config_settings
+msgid "Config Settings"
+msgstr "Impostazioni di configurazione"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_menuitem_config
+msgid "Configurations"
+msgstr "Configurazioni"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/js/search_new.js:0
+#, python-format
+msgid "Confirmation"
+msgstr "Conferma"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_country_menuitem
+msgid "Countries"
+msgstr "Paesi"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_brand__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_engine__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garde__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_make__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_product_type__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_transmission__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_type__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_year__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_product_specification__create_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__create_uid
+msgid "Created by"
+msgstr "Creato da"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_brand__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_engine__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garde__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_make__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_product_type__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_transmission__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_type__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_year__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_product_specification__create_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__create_date
+msgid "Created on"
+msgstr "Creato"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_my_garage_tmpl
+msgid "Currently there are no vehicles stored in your garage"
+msgstr "Al momento non ci sono veicoli custoditi nel tuo garage"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_brand__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_engine__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garde__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_make__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_product_type__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_transmission__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_type__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_year__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_product_specification__display_name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__display_name
+msgid "Display Name"
+msgstr "Nome da visualizzare"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_res_config_settings__sh_do_not_consider_vehicle_over_price
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_website__sh_do_not_consider_vehicle_over_price
+msgid "Do not consider vehicle when change on min/max price"
+msgstr "Non considerare il veicolo in caso di modifica del prezzo minimo/massimo"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_res_config_settings__sh_do_not_consider_vehicle_over_attribute
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_website__sh_do_not_consider_vehicle_over_attribute
+msgid "Do not consider vehicle when click on attributes"
+msgstr "Non considerare il veicolo quando si clicca sugli attributi"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_res_config_settings__sh_do_not_consider_vehicle_over_category
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_website__sh_do_not_consider_vehicle_over_category
+msgid "Do not consider vehicle when click on category"
+msgstr "Non considerare il veicolo quando si clicca sulla categoria"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__end_year_id
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_search
+msgid "End year"
+msgstr "Fine anno"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_engine_action
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__engine
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__engine
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_engine_menuitem
+msgid "Engine"
+msgstr "Motore"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_res_settings
+msgid "For website shop page only."
+msgstr "Solo per la pagina del negozio del sito web."
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_res_config_settings__sh_is_show_garage
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_website__sh_is_show_garage
+msgid "Garage Feature?"
+msgstr "Funzione garage?"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__garde
+msgid "Garde"
+msgstr "Garde"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_my_garage_tmpl
+msgid "Go to the vehicle"
+msgstr "Vai al veicolo"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_garde_action
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__garde
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_garde_menuitem
+msgid "Grade"
+msgstr "Grado"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_mmodel_search
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_search
+msgid "Group By"
+msgstr "Raggruppa per"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_brand__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_engine__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garde__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_make__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_product_type__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_transmission__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_type__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_year__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_product_specification__id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__id
+msgid "ID"
+msgstr "ID"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/xml/compitible_products.xml:0
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__vehicle_image
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+#, python-format
+msgid "Image"
+msgstr "Immagine"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__is_visible_website
+msgid "Is visible on website?"
+msgstr "È visibile sul sito web?"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_product_specification__name
+msgid "Label"
+msgstr "Etichetta"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_snippet_snippet_options
+msgid "Large"
+msgstr "Grande"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_brand__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_engine__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garde__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_make__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_product_type__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_transmission__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_type__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_year__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_product_specification__write_uid
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__write_uid
+msgid "Last Updated by"
+msgstr "Ultimo aggiornamento di"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_brand__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_engine__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garde__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_make__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_product_type__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_transmission__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_type__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_year__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_product_specification__write_date
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__write_date
+msgid "Last Updated on"
+msgstr "Ultimo aggiornamento il"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_simple_snippet_tmpl_1
+msgid "Lorem ipsum"
+msgstr "Lorem ipsum"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_simple_snippet_tmpl_1
+msgid "Lorem ipsum dolor sit amet,consectetur adipisicingelit sed to"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicingelit sed to"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__made_in
+msgid "Made In"
+msgstr "Fatto in"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_make_action
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__make_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__make_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__make_id
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_make_menuitem
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_mmodel_search
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_search
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+msgid "Make"
+msgstr "Fare"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/xml/compitible_products.xml:0
+#, python-format
+msgid "Manufacturer"
+msgstr "Produttore"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/xml/compitible_products.xml:0
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_mmodel_action
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__mmodel_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__mmodel_id
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_mmodel_menuitem
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_mmodel_search
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_search
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+#, python-format
+msgid "Model"
+msgstr "Modello"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_motorcycle
+msgid "Motorcycle"
+msgstr "Motociclo"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_brand
+msgid "Motorcycle Brand"
+msgstr "Marchio motociclistico"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_engine
+msgid "Motorcycle Engine"
+msgstr "Motore motociclistico"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_garage
+msgid "Motorcycle Garage"
+msgstr "Garage per moto"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_garde
+msgid "Motorcycle Garde"
+msgstr "Gara motociclistica"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_form
+msgid "Motorcycle Name"
+msgstr "Nome della motocicletta"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_product_type
+msgid "Motorcycle Product Type"
+msgstr "Tipo di prodotto motociclistico"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_transmission
+msgid "Motorcycle Transmission"
+msgstr "Trasmissione moto"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_my_garage_tmpl
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid "My Garage"
+msgstr "Il mio garage"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_brand__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_engine__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garde__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_make__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_product_type__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_transmission__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_type__name
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_year__name
+msgid "Name"
+msgstr "Nome"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_snippet_snippet_options
+msgid "None"
+msgstr "Nessuno"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_auto_part_vehicle_bookmark_links
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_detail_page_oem_tmpl
+msgid "OEM Details"
+msgstr "Dettagli OEM"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__optional_product_ids
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_template__optional_product_ids
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_auto_part_vehicle_bookmark_links
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_optional_vehicles
+msgid "Optional Products"
+msgstr "Prodotti opzionali"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,help:sh_auto_part_vehicle.field_product_product__optional_product_ids
+#: model:ir.model.fields,help:sh_auto_part_vehicle.field_product_template__optional_product_ids
+msgid "0"
+"Optional Products are suggested whenever the customer hits *Add to Cart* "
+"(cross-sell strategy, e.g. for computers: warranty, software, etc.)."
+msgstr "0"
+"I prodotti opzionali vengono suggeriti ogni volta che il cliente preme *Aggiungi al carrello*"
+"(strategia di cross-selling, ad esempio per i computer: garanzia, software, ecc.)."
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/xml/compitible_products.xml:0
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+#, python-format
+msgid "Particulars"
+msgstr "Particolari"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_product_template
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_product_specification__product_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__product_id
+msgid "Product"
+msgstr "Prodotto"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_sh_product_specification
+msgid "Product Specification"
+msgstr "Specifiche di prodotto"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_product_type_action
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__p_type_ids
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_product_type_menuitem
+msgid "Product Type"
+msgstr "Tipologia di prodotto"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_product_product
+msgid "Product Variant"
+msgstr "Variante del prodotto"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_products_variants_menu
+msgid "Product Variants"
+msgstr "Varianti del prodotto"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__product_ids
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_products_main_menu
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_products_menu
+msgid "Products"
+msgstr "Prodotti"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_form
+msgid "Range of years"
+msgstr "Gamma di anni"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_my_garage_tmpl
+msgid "Saved vehicles"
+msgstr "Veicoli salvati"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_brand_attribute_filters
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_engine_attribute_filters
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_garde_attribute_filters
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_made_in_attribute_filters
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_p_type_attribute_filters
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_frontend_transmission_attribute_filters
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_brands_products_attributes_offcanvas
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_engine_products_attributes_offcanvas
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_garde_products_attributes_offcanvas
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_made_in_products_attributes_offcanvas
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_p_type_products_attributes_offcanvas
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_shop_product_transmission_products_attributes_offcanvas
+msgid "Search..."
+msgstr "Ricerca..."
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/xml/compitible_products.xml:0
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+#, python-format
+msgid "Select"
+msgstr "Selezionare"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid "Select your vehicle"
+msgstr "Seleziona il tuo veicolo"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_snippet_snippet_options
+msgid "Small"
+msgstr "Piccolo"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_website_sale_products
+msgid "Something else here"
+msgstr "Qualcos'altro qui"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_product_only_form
+msgid "Specification"
+msgstr "Specifica"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__specification_lines
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_template__specification_lines
+msgid "Specification Lines"
+msgstr "Linee di specifica"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_detail_page_specification_tmpl
+msgid "Specifications"
+msgstr "Specifiche"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_auto_part_vehicle_bookmark_links
+msgid "Specifications Details"
+msgstr "Dettagli delle specifiche"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__year_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__year_id
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_search
+msgid "Start year"
+msgstr "Inizio anno"
+
+#. module: sh_auto_part_vehicle
+#. odoo-python
+#: code:addons/sh_auto_part_vehicle/models/motorcycle_model.py:0
+#, python-format
+msgid "Start year must be less than end year."
+msgstr "L'anno di inizio deve essere inferiore all'anno di fine."
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_vehicle_oem__supplier_id
+msgid "Supplier"
+msgstr "Fornitore"
+
+#. module: sh_auto_part_vehicle
+#: model:res.groups,comment:sh_auto_part_vehicle.group_sh_motorcycle_user
+msgid "The user will be able to just read motorcycle data."
+msgstr "L'utente potrà solo leggere i dati della moto."
+
+#. module: sh_auto_part_vehicle
+#: model:res.groups,comment:sh_auto_part_vehicle.group_sh_motorcycle_manager
+msgid "The user will have access to CRUD motorcycle data."
+msgstr "L'utente avrà accesso ai dati della moto CRUD."
+
+#. module: sh_auto_part_vehicle
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_transmission_action
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__transmission_ids
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__transmission_ids
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_transmission_menuitem
+msgid "Transmission"
+msgstr "Trasmissione"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_type_action
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__type_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_mmodel__type_id
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_motorcycle__type_id
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_type_menuitem
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_mmodel_search
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_search
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+msgid "Type"
+msgstr "Tipo"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_motorcycle_garage__user_id
+msgid "User"
+msgstr "Utente"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_sh_product_specification__value
+msgid "Value"
+msgstr "Valore"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_product_only_form
+msgid "Variants"
+msgstr "Varianti"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_motorcycle_action
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_menuitem_sub
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_motorcycle_form
+msgid "Vehicle"
+msgstr "Veicolo"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_sh_vehicle_oem
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_product_only_form
+msgid "Vehicle OEM"
+msgstr "OEM del veicolo"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__vehicle_oem_lines
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_template__vehicle_oem_lines
+msgid "Vehicle OEM Lines"
+msgstr "Linee OEM di veicoli"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model.fields,field_description:sh_auto_part_vehicle.field_product_product__product_type
+msgid "Vehicle Product Type"
+msgstr "Tipo di prodotto del veicolo"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_product_normal_form
+msgid "Vehicles"
+msgstr "Veicoli"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_website
+msgid "Website"
+msgstr "Sito web"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/xml/compitible_products.xml:0
+#: model:ir.actions.act_window,name:sh_auto_part_vehicle.sh_motorcycle_year_action
+#: model:ir.ui.menu,name:sh_auto_part_vehicle.sh_motorcycle_year_menuitem
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_supported_vehicles_tabs
+#, python-format
+msgid "Year"
+msgstr "Anno"
+
+#. module: sh_auto_part_vehicle
+#. odoo-javascript
+#: code:addons/sh_auto_part_vehicle/static/src/js/search_new.js:0
+#, python-format
+msgid "Yes"
+msgstr "SÌ"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_snippet_snippet_options
+msgid "eCommerce Categories"
+msgstr "Categorie di e-commerce"
+
+#. module: sh_auto_part_vehicle
+#: model_terms:ir.ui.view,arch_db:sh_auto_part_vehicle.sh_motorcycle_selection_snippet_tmpl_1
+msgid "i'm looking for"
+msgstr "Sto cercando"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_make
+msgid "make model"
+msgstr "fare il modello"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_mmodel
+msgid "mmodel"
+msgstr "mmodel"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_type
+msgid "type model"
+msgstr "tipo modello"
+
+#. module: sh_auto_part_vehicle
+#: model:ir.model,name:sh_auto_part_vehicle.model_motorcycle_year
+msgid "year"
+msgstr "anno"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- List View -->
+    <record id="sh_motorcycle_engine_tree" model="ir.ui.view">
+        <field name="name">motorcycle.engine.list</field>
+        <field name="model">motorcycle.engine</field>
+        <field name="arch" type="xml">
+            <list editable="bottom">
+                <field name="sequence" widget="handle" />
+                <field name="name" />
+            </list>
+        </field>
+    </record>
+
+    <!-- action -->
+    <record id="sh_motorcycle_engine_action" model="ir.actions.act_window">
+        <field name="name">Engine</field>
+        <field name="res_model">motorcycle.engine</field>
+        <field name="view_mode">list</field>
+    </record>
+
+    <!-- make menuitem -->
+    <menuitem id="sh_motorcycle_engine_menuitem" action="sh_motorcycle_engine_action" parent="sh_motorcycle_menuitem_config" sequence="6" />
+</odoo>
