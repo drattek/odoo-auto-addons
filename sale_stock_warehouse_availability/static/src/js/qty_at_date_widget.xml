@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+    <t t-inherit="sale_stock.QtyAtDatePopover" t-inherit-mode="extension">
+        <xpath expr="//button[last()]" position="after">
+            <button t-if="!props.record.data.is_mto" class="text-start btn btn-link"
+                type="button" t-on-click="toggleWarehouseData">
+                <i t-attf-class="fa {{ state.showWarehouseData ? 'fa-chevron-down' : 'fa-chevron-right' }} me-1"></i>
+                <i class="fa fa-building me-1"></i>
+                All Warehouses
+            </button>
+            
+            <div t-if="state.showWarehouseData" class="mt-3">
+                <h6 class="border-top pt-2">Warehouse Availability</h6>
+                <div t-if="state.loading" class="text-center py-2">
+                    <i class="fa fa-spinner fa-spin"/> Loading...
+                </div>
+                <div t-else="" class="warehouse-availability-table" style="max-height: 300px; overflow-y: auto;">
+                    <table class="table table-sm table-striped mb-0">
+                        <thead style="position: sticky; top: 0; background-color: white; z-index: 1;">
+                            <tr>
+                                <th>Warehouse</th>
+                                <th class="text-end">On Hand</th>
+                                <th class="text-end">Forecasted</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <t t-foreach="state.warehouseData" t-as="item" t-key="item.warehouse_id">
+                                <tr t-if="item.available_qty != 0">
+                                    <td><t t-out="item.warehouse_name"/></td>
+                                    <td class="text-end">
+                                        <span t-attf-class="badge {{ item.available_qty > 0 ? 'bg-success' : 'bg-danger' }}">
+                                            <t t-out="item.available_qty"/> 
+                                            <t t-if="props.record.data.product_uom and props.record.data.product_uom[1]" t-out="props.record.data.product_uom[1]"/>
+                                        </span>
+                                    </td>
+                                    <td class="text-end">
+                                        <t t-out="item.forecasted_qty"/> 
+                                        <t t-if="props.record.data.product_uom and props.record.data.product_uom[1]" t-out="props.record.data.product_uom[1]"/>
+                                    </td>
+                                </tr>
+                            </t>
+                            <tr t-if="state.warehouseData.length === 0">
+                                <td colspan="3" class="text-center">No warehouse data available</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </xpath>
+    </t>
+</templates>
+
