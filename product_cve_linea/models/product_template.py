@@ -10,3 +10,8 @@ class ProductTemplate(models.Model):
         string='CVE-Linea',
         help='Catalog value indicating the CVE Linea for this product.'
     )
+
+    x_cross = fields.Text(
+        string='XCross',
+        help='Free-form compatibility notes between auto parts. Large text; not a catalog.'
+    )

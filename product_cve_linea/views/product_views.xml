@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
-    <!-- Inherit the product template form to add CVE-Linea field -->
+    <!-- Inherit the product template form to add CVE-Linea and XCross fields -->
     <record id="view_product_template_form_inherit_cve_linea" model="ir.ui.view">
         <field name="name">product.template.form.cve.linea</field>
         <field name="model">product.template</field>
@@ -9,6 +9,9 @@
             <xpath expr="//sheet//group" position="inside">
                 <group string="CVE">
                     <field name="x_cve_linea_id" options="{'no_create_edit': False}"/>
+                </group>
+                <group string="Compatibility">
+                    <field name="x_cross" placeholder="Describe compatible models/parts here..."/>
                 </group>
             </xpath>
         </field>
